@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(#efefef, #a0a0a0);
+    min-height: 100vh;
+}
+
+h5 {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 97%;
+}
+
+img {
+    display: block;
+    width: 130px;
+    margin: 0 auto;
+}
+
+.button {
+    position: relative;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    padding: 5px;
+    background-color: white;
+    height: 180px;
+}
+
+.button:hover {
+    background-color: lightblue;
+}
+
+.bottom-button {
+    width: 20%;
+}
